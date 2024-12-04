@@ -1,4 +1,4 @@
-# 🎉 MatchPoint - The Dating App That Puts Skin in the Game! 💸❤️
+# MatchPoint - The Dating App That Puts Skin in the Game!
 
 **MatchPoint** isn’t just another dating app—it’s where commitment meets fun, accountability, and a bit of healthy risk-taking! Say goodbye to endless ghosting and unfulfilled matches, and say hello to real connections with real people.
 
@@ -16,16 +16,16 @@
    Matches aren’t just for chatting—they’re for real-life dates. You and your match have **7 days** to meet in person, or both of you lose your money.  Womp womp.
 
 4. **📅 Set Your Availability**  
-   Think of it like scheduling an interview, but way more fun! Once you match, add your availability and plan a time that works for both of you.
+   Think of it like scheduling an interview, but way more fun!  Once you match, add your availability and plan a time that works for both of you.
 
 5. **🚫 No Excuses Allowed**  
-   Ghosting? Terrible excuses? Forget it! If you back out, you lose your $5, and if it’s a pattern, you’re **banned**. No exceptions.
+   Ghosting? Terrible excuses? You deserve better, kings and queens!  If you back out, you lose your $5, and if it’s a pattern, you’re **banned**. No exceptions.
 
 6. **📱 Tap to Confirm**  
    When you meet, simply tap your phones together (or scan a QR code) to verify your date. Both of you get your $5 refunded if you show up!
 
 7. **💔 No-Show Fee**  
-   If your match doesn’t show up, their $5 becomes yours. Call it karma—or just a great reason to follow through.
+   If your match doesn’t show up, their $5 becomes yours.  Call it God's will for your life, karma, or just a great reason to follow through.
 
 ---
 
@@ -35,7 +35,7 @@
    Add a photo, write a little about yourself, verify your identity, and let the fun begin.
 
 2. **Start Swiping:**  
-   Like someone? Swipe "yes" and invest $5. It’s your stake in finding real connections.
+   Like someone?  Swipe "yes" and invest $5.  No pay, no play.
 
 3. **It’s a Match!:**  
    Both swipe "yes"? Congrats! Now set your meeting availability and let the magic happen.
