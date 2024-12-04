@@ -1,4 +1,3 @@
-Here’s a fun and engaging README.md for your dating app:
 
 ---
 
@@ -17,7 +16,7 @@ Here’s a fun and engaging README.md for your dating app:
    The $5 only leaves your pocket if they swipe "yes" on you too! Matching has never been more intentional.
 
 3. **⏳ Meet Within a Week**  
-   Matches aren’t just for chatting—they’re for real-life dates. You and your match have **7 days** to meet in person, or both of you lose your money.
+   Matches aren’t just for chatting—they’re for real-life dates. You and your match have **7 days** to meet in person, or both of you lose your money.  Womp womp.
 
 4. **📅 Set Your Availability**  
    Think of it like scheduling an interview, but way more fun! Once you match, add your availability and plan a time that works for both of you.
@@ -36,7 +35,7 @@ Here’s a fun and engaging README.md for your dating app:
 ## 🎯 How It Works
 
 1. **Create a Profile:**  
-   Add a photo, write a little about yourself, and let the fun begin.
+   Add a photo, write a little about yourself, verify your identity, and let the fun begin.
 
 2. **Start Swiping:**  
    Like someone? Swipe "yes" and invest $5. It’s your stake in finding real connections.
