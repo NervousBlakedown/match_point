@@ -1,6 +1,3 @@
-
----
-
 # 🎉 MatchPoint - The Dating App That Puts Skin in the Game! 💸❤️
 
 **MatchPoint** isn’t just another dating app—it’s where commitment meets fun, accountability, and a bit of healthy risk-taking! Say goodbye to endless ghosting and unfulfilled matches, and say hello to real connections with real people.
