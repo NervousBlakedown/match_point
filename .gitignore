@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Flask environment files
+instance/
+.env
+.flaskenv
