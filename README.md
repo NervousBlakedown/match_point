@@ -2,16 +2,16 @@ Here’s a fun and engaging README.md for your dating app:
 
 ---
 
-# 🎉 Swipe & Meet - The Dating App That Puts Skin in the Game! 💸❤️
+# 🎉 MatchPoint - The Dating App That Puts Skin in the Game! 💸❤️
 
-**Swipe & Meet** isn’t just another dating app—it’s where commitment meets fun, accountability, and a bit of healthy risk-taking! Say goodbye to endless ghosting and unfulfilled matches, and say hello to real connections with real people.
+**MatchPoint** isn’t just another dating app—it’s where commitment meets fun, accountability, and a bit of healthy risk-taking! Say goodbye to endless ghosting and unfulfilled matches, and say hello to real connections with real people.
 
 ---
 
 ## 🌟 What Makes Us Different?
 
 1. **💰 Pay to Swipe (Only $5!)**  
-   Tired of meaningless swipes? At **Swipe & Meet**, it costs $5 to swipe "yes" on someone. This means you’ll only swipe on people you’re genuinely interested in!
+   Tired of meaningless swipes? At **MatchPoint**, it costs $5 to swipe "yes" on someone. This means you’ll only swipe on people you’re genuinely interested in!
 
 2. **💘 Mutual Swipes Only**  
    The $5 only leaves your pocket if they swipe "yes" on you too! Matching has never been more intentional.
@@ -54,7 +54,7 @@ Here’s a fun and engaging README.md for your dating app:
 
 ## 🛠️ Tech Stack
 
-**Swipe & Meet** is built using modern tools to ensure a smooth and secure experience:
+**MatchPoint** is built using modern tools to ensure a smooth and secure experience:
 - **Backend:** Python Flask + SQLAlchemy
 - **Frontend:** HTML/CSS/JavaScript
 - **Database:** PostgreSQL (or SQLite for local dev)
@@ -104,7 +104,7 @@ Here’s a fun and engaging README.md for your dating app:
 
 ## 🙌 Contributing
 
-Want to help us make dating better? Fork the repo, submit a pull request, or suggest a feature. Let’s make **Swipe & Meet** the app everyone talks about!
+Want to help us make dating better? Fork the repo, submit a pull request, or suggest a feature. Let’s make **MatchPoint** the app everyone talks about!
 
 ---
 
@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-**🎉 Ready to meet someone who’s just as serious as you? Swipe smart. Meet quick. Love better. Join Swipe & Meet today! ❤️**
+**🎉 Ready to meet someone who’s just as serious as you? Swipe smart. Meet quick. Love better. Join MatchPoint today! ❤️**
 
 --- 
 
