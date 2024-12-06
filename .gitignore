@@ -3,6 +3,7 @@ venv/
 
 # Credentials
 config.yaml
+.env
 
 # Python cache files
 __pycache__/
@@ -11,5 +12,4 @@ __pycache__/
 
 # Flask environment files
 instance/
-.env
 .flaskenv
