@@ -4,32 +4,32 @@
 
 ---
 
-## 🌟 What Makes Us Different?
+## What Makes Us Different?
 
-1. **💰 Pay to Swipe (Only $5!)**  
+1. **Pay to Swipe (Only $5!)**  
    Tired of meaningless swipes? At **MatchPoint**, it costs $5 to swipe "yes" on someone. This means you’ll only swipe on people you’re genuinely interested in!
 
-2. **💘 Mutual Swipes Only**  
+2. **Mutual Swipes Only**  
    The $5 only leaves your pocket if they swipe "yes" on you too! Matching has never been more intentional.
 
-3. **⏳ Meet Within a Week**  
+3. **Meet Within a Week**  
    Matches aren’t just for chatting—they’re for real-life dates. You and your match have **7 days** to meet in person, or both of you lose your money.  Womp womp.
 
-4. **📅 Set Your Availability**  
+4. **Set Your Availability**  
    Think of it like scheduling an interview, but way more fun!  Once you match, add your availability and plan a time that works for both of you.
 
-5. **🚫 No Excuses Allowed**  
+5. **No Excuses Allowed**  
    Ghosting? Terrible excuses? You deserve better, kings and queens!  If you back out, you lose your $5, and if it’s a pattern, you’re **banned**. No exceptions.
 
-6. **📱 Tap to Confirm**  
+6. **Tap to Confirm**  
    When you meet, simply tap your phones together (or scan a QR code) to verify your date. Both of you get your $5 refunded if you show up!
 
-7. **💔 No-Show Fee**  
+7. **No-Show Fee**  
    If your match doesn’t show up, their $5 becomes yours.  Call it God's will for your life, karma, or just a great reason to follow through.
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. **Create a Profile:**  
    Add a photo, write a little about yourself, verify your identity, and let the fun begin.
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **MatchPoint** is built using modern tools to ensure a smooth and secure experience:
 - **Backend:** Python Flask + SQLAlchemy
@@ -59,7 +59,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the Repository:**
    ```bash
@@ -89,7 +89,7 @@
 
 ---
 
-## 💡 Features Coming Soon
+## Features Coming Soon
 
 - **In-App Chat:** Chat directly with your matches to plan your date.
 - **Exclusive Badges:** Earn rewards for being the ultimate dater.
@@ -98,19 +98,19 @@
 
 ---
 
-## 🙌 Contributing
-
+## Contributing
+For all questions, concerns, and comments, message Blake Calhoun (@NervousBlakedown) on GitHub.
 Want to help us make dating better? Fork the repo, submit a pull request, or suggest a feature. Let’s make **MatchPoint** the app everyone talks about!
 
 ---
 
-## ⚖️ License
+## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-**🎉 Ready to meet someone who’s just as serious as you? Swipe smart. Meet quick. Love better. Join MatchPoint today! ❤️**
+**Ready to meet someone who’s just as serious as you? Swipe smart. Meet quick. Love better. Join MatchPoint today!**
 
 --- 
 
