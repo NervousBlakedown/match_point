@@ -35,10 +35,10 @@ def create_app():
     login_manager.login_message_category = "info"
 
     # User loader for Flask-Login
-    from .models import User  # Import your User model
+    from .models import User  # Import User model
     @login_manager.user_loader
     def load_user(user_id):
-        return User.query.get(int(user_id))  # Retrieve the user by ID
+        return User.query.get(int(user_id))  # Retrieve user by ID
 
     # Import and register blueprints
     from .routes import main as main_blueprint
